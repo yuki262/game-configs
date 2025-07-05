@@ -21,6 +21,7 @@ A curated list of mods I use for Stardew Valley, organized by category. Requires
 - [**Convenient Chests**](https://www.nexusmods.com/stardewvalley/mods/2196)
 - [**Convenient Inventory**](https://www.nexusmods.com/stardewvalley/mods/10384)
 - [**Crop Watering Bubbles**](https://www.nexusmods.com/stardewvalley/mods/21428)
+- [**Farmer Helper**](https://www.nexusmods.com/stardewvalley/mods/21030)
 - [**Friends Forever**](https://www.nexusmods.com/stardewvalley/mods/20702)
 - [**No Fence Decay**](https://www.nexusmods.com/stardewvalley/mods/20802)
 
