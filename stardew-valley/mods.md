@@ -9,7 +9,6 @@ A curated list of mods I use for Stardew Valley, organized by category. Requires
 - **Console Commands** (Comes with SMAPI)
 - **Save Backup** (Comes with SMAPI)
 - [**Content Patcher**](https://www.nexusmods.com/stardewvalley/mods/1915)
-- [**Content Patcher Animations**](https://www.nexusmods.com/stardewvalley/mods/3853)
 - [**Farm Type Manager**](https://www.nexusmods.com/stardewvalley/mods/3231)
 
 ---
