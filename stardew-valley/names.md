@@ -1,15 +1,15 @@
 # 🗺️ Map Names
 
-| Map          | Name              |
-| ------------ | ----------------- |
-| Standard     | Oak Vale          |
-| Riverland    | Mangrove Meadow   |
-| Forest       | Fablewood Field   |
-| Hill-Top     | Spruce Hill       |
-| Wilderness   | Evergreen Eclipse |
-| Four Corners | Birchwood Blossom |
-| Beach        | Coralwood Coast   |
-| Frontier     | Redwood Ridge     |
+| Map          | Name        |
+| ------------ | ----------- |
+| Standard     | Oak Vale    |
+| Riverland    | Mangrove    |
+| Forest       | Fablewood   |
+| Hill-Top     | Spruce Hill |
+| Wilderness   | Evergreen   |
+| Four Corners | Birchwood   |
+| Beach        | Coralwood   |
+| Frontier     | Redwood     |
 
 # 🐄 Cows & Goats
 
